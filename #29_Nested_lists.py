@@ -53,4 +53,4 @@ for i in a:
 #test for git pull
 print(i)
 
-##two more lines for UI
+##two more lines for GUI
