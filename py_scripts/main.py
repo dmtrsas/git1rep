@@ -29,3 +29,4 @@ def sqr(l):
     a = (p, s, round(d, 3))
     return a
 print(sqr(3))
+print ('Okey-dokey')
