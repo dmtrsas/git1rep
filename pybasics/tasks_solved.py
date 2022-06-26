@@ -35,8 +35,7 @@ def square():
     perimeter = side_size * 4
     area = side_size * 2
     diagonal = math.sqrt((side_size ** 2) * 2)
-    square_data = tuple()
-    square_data = (str(perimeter) + ' cm', str(area) + ' cm2', str(diagonal) + ' cm')
+    square_data = tuple(str(perimeter) + ' cm', str(area) + ' cm2', str(diagonal) + ' cm')
     print(square_data)
 
 
