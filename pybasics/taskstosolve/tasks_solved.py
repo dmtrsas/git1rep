@@ -40,3 +40,5 @@ def square():
 
 
 square()
+
+# Task 3
